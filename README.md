@@ -83,6 +83,9 @@ Accuracy of 79.5, sensitivity of 80.6%.
 
 ### Conclusion:
 The important features came from the Model are:
+
+![image](https://github.com/user-attachments/assets/eb329bc7-1898-43a3-848d-9e421d20e430)
+
 Features namely Do Not Email and What is your current occupation_Unknown are
 negatively correlated and rest of the features are positively correlated to the target
 variable.
