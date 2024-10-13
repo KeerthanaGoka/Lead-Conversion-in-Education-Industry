@@ -1,4 +1,4 @@
-# LeadScore Case Study
+
 ## Problem statement
 X Education sells online courses to industry professionals. The typical lead conversion
 rate at X education is around 30%, which is very poor the company wishes to identify ‘Hot
